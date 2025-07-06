@@ -14,11 +14,11 @@ The project cosnistes in tree solutions:
 * DiscountServiceGrpc(Service) 
 * DiscountServiceGrpc.Test
 
-![DiscountService screenshot](https://github.com/VitorLucas/DiscountServiceGrpc/blob/main/Images/SolutionsStarter.png)
+![DiscountService screenshot](https://github.com/VitorLucas/DiscountServiceGrpc/blob/main/Images/projects.png)
 
 ## Project starter
 Was configured a startup of the project as the image
-![startup screenshot](./images/SolutionsStarter.png)
+![startup screenshot](https://github.com/VitorLucas/DiscountServiceGrpc/blob/main/Images/SolutionsStarter.png)
 
 ## Postman
-![startup screenshot](./images/postmanCall.png)
+![postman screenshot](https://github.com/VitorLucas/DiscountServiceGrpc/blob/main/Images/images/postmanCall.png)
