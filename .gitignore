@@ -1,0 +1,14 @@
+**/node_modules/
+agent/config-cloud-configured.yaml
+docker-compose-cloud-configured.yml
+unconfigure.sh
+.idea/
+.vs/DiscountServiceGrpc/CopilotIndices
+.vs/DiscountServiceGrpc/DesignTimeBuild
+.vs/DiscountServiceGrpc/FileContentIndex
+.vs/DiscountServiceGrpc/v17
+DiscountService/bin
+DiscountService/obj
+DiscountServiceClient/bin
+DiscountServiceClient/obj
+DiscountServiceGrpc.Test/obj

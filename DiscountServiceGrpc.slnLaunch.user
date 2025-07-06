@@ -1,0 +1,28 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "DiscountService\\DiscountServiceGrpc.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DiscountServiceClient\\DiscountServiceClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  },
+  {
+    "Name": "ServerClientTest",
+    "Projects": [
+      {
+        "Path": "DiscountService\\DiscountServiceGrpc.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "DiscountServiceClient\\DiscountServiceClient.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
