@@ -21,4 +21,4 @@ Was configured a startup of the project as the image
 ![startup screenshot](https://github.com/VitorLucas/DiscountServiceGrpc/blob/main/Images/SolutionsStarter.png)
 
 ## Postman
-![postman screenshot](https://github.com/VitorLucas/DiscountServiceGrpc/blob/main/Images/images/postmanCall.png)
+![postman screenshot](https://github.com/VitorLucas/DiscountServiceGrpc/blob/main/Images/postmanCall.png)
