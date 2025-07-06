@@ -14,7 +14,7 @@ The project cosnistes in tree solutions:
 * DiscountServiceGrpc(Service) 
 * DiscountServiceGrpc.Test
 
-![DiscountService screenshot](./images/projects.png)
+![DiscountService screenshot](https://github.com/VitorLucas/DiscountServiceGrpc/blob/main/Images/SolutionsStarter.png)
 
 ## Project starter
 Was configured a startup of the project as the image
